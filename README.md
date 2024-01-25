@@ -39,7 +39,7 @@ The following functionalities were covered in this project:
 ## Testing Activities
 - **Designed and Documented Test Cases**: Created test cases for different functionalities and scenarios.
 - **Executed Test Cases**: Executed test cases to verify the functionalities.
-- **Identified and Report Issues**: Discovered 10+ issues and reported them.
+- **Identified and Report Issues**: Discovered issues and reported them.
 
 <h3 align="center">
 ThankYou
